@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=da9tran&label=Profile%20views&color=0e75b6&style=flat" alt="da9tran" /> </p>
 
-- 🔭 I’m currently working at **Posten Norge.**
-
-- 🌱 I’m currently studying **Informatics: Design, Use, Interaction (master's two years) @UiO.**
-
-- 🤝 I’m looking for help with **finding a dream company I can work at.**
+- 🔭 I’m currently working at **Loop Academy**
 
 - 💬 Ask me about **anything.**
 
